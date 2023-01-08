@@ -4,9 +4,9 @@ Hi there! My name is Simon Gottschlag and I love open source and tech.
 
 ### ⚡ background
 
-I've been a Linux user since the age of eleven and working in tech since I was 19, with everything from first line user support to networking and infrastructure consultant.
+I've been a Linux user since the age of eleven and working in tech since I was 19, with everything from first line user support to networking and infrastructure consulting.
 
-Nowadays, I'm doing some software engineering as well as 
+The last couple of years have been focused around software engineering, DevOps, automation and some management.
 
 ### 🔭 work
 
@@ -16,6 +16,7 @@ I'm the CTO at Xenit AB in Gothenburg, Sweden. It's the only place I've been. :^
 
 - [LinkedIn](https://www.linkedin.com/in/simon-gottschlag-8466031b/)
 - [YouTube](https://www.youtube.com/channel/UCq-BjdtRCDGDF4ZbiuHrVWA)
+- [goodreads](https://www.goodreads.com/user/show/36801939-simon-gottschlag)
 
 ### 🌱 projects
 
