@@ -10,7 +10,7 @@ The last couple of years have been focused around software engineering, DevOps, 
 
 ### 🔭 work
 
-I'm the CTO at Xenit AB in Gothenburg, Sweden. It's the only place I've been. :^)
+I'm the CTO at [Co-native AB](https://co-native.com/) in Gothenburg, Sweden. Previous CTO of [Xenit AB](https://xenit.se/). Co-native is the group company for [Asurgent](https://asurgent.se/), [Buzzcloud](https://buzzcloud.se/), [Elastic Move](https://elasticmove.com/) and [Xenit](https://xenit.se/).
 
 ### 📫 where to find me
 
